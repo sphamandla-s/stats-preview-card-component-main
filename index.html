@@ -5,29 +5,53 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
 
   <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@700&display=swap">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Ibarra+Real+Nova&display=swap">
+  <link rel="stylesheet" href="/css/style.css">
   
   <title>Frontend Mentor | Stats preview card component</title>
 
-  <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
-  <style>
-    .attribution { font-size: 11px; text-align: center; }
-    .attribution a { color: hsl(228, 45%, 44%); }
-  </style>
+
 </head>
 <body>
 
-  Get insights that help your business grow.
+  <main>
+    <div class="container">
+      <section class="text">
+        <h1>Get <span>insights</span> that help your business grow.</h1>
+        <p>
+          Discover the benefits of data analytics and make better business decision 
+          regarding revenue and customer experience and overall efficiently.
+        </p>
+        <div class="workDoneContainer">
 
-  Discover the benefits of data analytics and make better decisions regarding revenue, customer 
-  experience, and overall efficiency.
+          <div class="workDone">
+            <span class="pricing-price">10K+</span>
+            <a href="#/">companies</a>
+          </div>
 
-  10k+ companies
-  314 templates
-  12m+ queries
+          <div class="workDone">
+            <span class="pricing-price">314</span>
+            <a href="#/">templates</a>
+          </div>
+ 
+          <div class="workDone">
+            <span>12M+</span>
+            <a href="#/">queries</a>
+          </div>
+      
+        </div>
+      </section>
+      <section class="image">
+        <img src="/images/image-header-desktop.jpg" alt="">
+      </section>
+    </div>
+  </main>
+  
 
-  <div class="attribution">
+  <!-- <div class="attribution">
     Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
     Coded by <a href="#">Your Name Here</a>.
-  </div>
+  </div> -->
 </body>
 </html>
