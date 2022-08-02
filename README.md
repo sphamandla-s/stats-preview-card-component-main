@@ -7,8 +7,10 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+- 
 - [Author](#author)
 
 
@@ -27,6 +29,10 @@ Users should be able to:
 ![](/css/Screenshot%20from%202022-08-02%2010-00-40.png)
 
 
+### Links
+
+- Live Site URL: [https://sphamandla-s.github.io/stats-preview-card-component-main/]
+
 ## My process
 
 ### Built with
@@ -35,7 +41,6 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - Media queries
-
 
 
 ## Author
