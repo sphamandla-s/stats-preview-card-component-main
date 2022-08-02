@@ -47,6 +47,5 @@ Users should be able to:
 - Frontend Mentor - [@sphamandla-s](https://www.frontendmentor.io/profile/sphamandla-s)
 - Twitter - [@Spha_Mdletsh](https://www.twitter.com/Spha_Mdletsh)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.*
 
 
